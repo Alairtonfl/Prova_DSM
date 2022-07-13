@@ -1,0 +1,22 @@
+export default[
+    {
+        id: 3,
+        name: 'Sasuke',
+        email: 'lhefaltaodio.com.br',
+        avatarUrl: 'https://sm.ign.com/ign_br/screenshot/default/sasuke-uchiha-naruto-shippuuden-cosplay_63ep.jpg'
+    },
+    {
+        id: 2,
+        name: 'Zoro',
+        email: 'zorosola.com.br',
+        avatarUrl: 'https://mlyazqwnm7ri.i.optimole.com/g70rCmE.Bp_Q~21ef3/w:1024/h:538/q:mauto/id:89bdbd8e51ab4ade703288d3545eec14/https://espadasymas.com/la-cicatriz-en-el-ojo-de-Zoro-1024x538.jpg'
+    },
+    {
+        id: 1,
+        name: 'Itachi',
+        email: 'matadordefamilia.com.br',
+        avatarUrl: 'https://criticalhits.com.br/wp-content/uploads/2022/01/Screenshot-2022-01-15-at-15-06-08-itachi-uchiha-webp-WEBP-Image-1162-%C3%97-684-pixels-910x536.png'
+    },
+
+
+]
